@@ -7,3 +7,5 @@ Line added online
 line added offline
 
 squash?
+
+line 11 added bugfix
